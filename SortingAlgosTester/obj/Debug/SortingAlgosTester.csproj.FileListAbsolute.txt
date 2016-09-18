@@ -1,0 +1,8 @@
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\bin\Debug\SortingAlgosTester.exe.config
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\bin\Debug\SortingAlgosTester.exe
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\bin\Debug\SortingAlgosTester.pdb
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\bin\Debug\SortingAlgos.dll
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\bin\Debug\SortingAlgos.pdb
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\obj\Debug\SortingAlgosTester.csprojResolveAssemblyReference.cache
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\obj\Debug\SortingAlgosTester.exe
+C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\SortingAlgosTester\obj\Debug\SortingAlgosTester.pdb
