@@ -1,5 +1,0 @@
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsDS\bin\Debug\DisjointSetsDS.dll
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsDS\bin\Debug\DisjointSetsDS.pdb
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsDS\obj\Debug\DisjointSetsDS.csprojResolveAssemblyReference.cache
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsDS\obj\Debug\DisjointSetsDS.dll
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsDS\obj\Debug\DisjointSetsDS.pdb

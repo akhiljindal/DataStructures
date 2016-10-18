@@ -1,8 +1,0 @@
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\bin\Debug\LinkedList Tester.exe.config
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\bin\Debug\LinkedList Tester.exe
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\bin\Debug\LinkedList Tester.pdb
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\bin\Debug\LinkedListDS.dll
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\bin\Debug\LinkedListDS.pdb
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\obj\Debug\LinkedListTester.csprojResolveAssemblyReference.cache
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\obj\Debug\LinkedList Tester.exe
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedList Tester\obj\Debug\LinkedList Tester.pdb

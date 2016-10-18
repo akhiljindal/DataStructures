@@ -1,8 +1,0 @@
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\bin\Debug\DisjointSetsTester.exe.config
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\bin\Debug\DisjointSetsTester.exe
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\bin\Debug\DisjointSetsTester.pdb
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\bin\Debug\DisjointSetsDS.dll
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\bin\Debug\DisjointSetsDS.pdb
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\obj\Debug\DisjointSetsTester.csprojResolveAssemblyReference.cache
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\obj\Debug\DisjointSetsTester.exe
-c:\users\akhilj\documents\visual studio 2015\Projects\DataStructuresInterview\DisjointSetsTester\obj\Debug\DisjointSetsTester.pdb

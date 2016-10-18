@@ -1,5 +1,0 @@
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedListDS\obj\Debug\LinkedListDS.csprojResolveAssemblyReference.cache
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedListDS\bin\Debug\LinkedListDS.dll
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedListDS\bin\Debug\LinkedListDS.pdb
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedListDS\obj\Debug\LinkedListDS.dll
-C:\Users\akhilj\Documents\Visual Studio 2015\Projects\DataStructuresInterview\LinkedListDS\obj\Debug\LinkedListDS.pdb
