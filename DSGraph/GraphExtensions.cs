@@ -8,9 +8,16 @@ namespace DSGraph
 {
     public static class GraphExtensions
     {
+        /// <summary>
+        /// https://en.wikipedia.org/wiki/Topological_sorting
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="g"></param>
+        /// <returns></returns>
         public static Stack<Vertex<T>> TopologicalSort<T>(this Graph<T> g)
         {
             HashSet<Vertex<T>> visited = new HashSet<Vertex<T>>();
+            HashSet<Vertex<T>> temporaryVisit = new HashSet<Vertex<T>>();
             Stack<Vertex<T>> result = new Stack<Vertex<T>>();
 
 
@@ -19,9 +26,7 @@ namespace DSGraph
                 if (visited.Contains(currentVertex))
                     continue;
 
-                TopSort(currentVertex, visited, result);
-
-
+                TopSort(currentVertex, visited, temporaryVisit, result);
             }
 
 
@@ -319,18 +324,25 @@ namespace DSGraph
             return e.V1.Equals(v) ? e.V2 : e.V1;
         }
 
-        private static void TopSort<T>(Vertex<T> currentVertex, HashSet<Vertex<T>> visited, Stack<Vertex<T>> result)
+        private static void TopSort<T>(Vertex<T> currentVertex, HashSet<Vertex<T>> visited, HashSet<Vertex<T>> temporaryVisit, Stack<Vertex<T>> result)
         {
-            visited.Add(currentVertex);
+            if (temporaryVisit.Contains(currentVertex))
+            {
+                throw new Exception("Graph is not DAG.");
+            }
+
+            temporaryVisit.Add(currentVertex);
 
             foreach (var v in currentVertex.GetAdjVertex())
             {
                 if (visited.Contains(v))
                     continue;
 
-                TopSort(v, visited, result);
+                TopSort(v, visited, temporaryVisit, result);
             }
 
+            visited.Add(currentVertex);
+            temporaryVisit.Remove(currentVertex);
             result.Push(currentVertex);
         }
     }
